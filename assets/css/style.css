@@ -7,6 +7,7 @@
 html {
   position: relative;
   min-height: 100%;
+  background-color:#b6d5dd;
 }
 
 body {
@@ -23,12 +24,12 @@ body {
   position: absolute;
   top: 0;
   width: 100%; /* Set the fixed height of the footer here */
-  height: 20px;
+  height: 40px;
   padding-top: 20px;
   padding-bottom: 40px;
   text-align: center;
-  color: blue;
-  background-color: lightcoral;
+  color: black;
+  background-color:#77cadf;
 }
 #footer {
   position: absolute;
@@ -55,7 +56,7 @@ body {
   font: 12px sans-serif;
   color: white;
   text-align: center;
-  background: #551aaf;
+  background:blue;
   border: 0;
   border-radius: 10px;
 }
