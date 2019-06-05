@@ -12,12 +12,11 @@ html {
 body {
   /* Padding bottom by footer height */
   padding-bottom: 80px;
-
+  background-color:#b6d5dd;
 }
 
 #scatter {
   padding-top: 80px;
-  background-color:#e3e3e3;
 }
 
 #header {
